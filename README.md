@@ -14,6 +14,14 @@ historical trends for various cryptocurrencies.
 - **Error Handling**: Comprehensive error handling with user-friendly Toast messages
 - **Loading States**: Provides visual feedback during data fetching operations
 
+## 📱 Screenshots
+
+| | |
+|---|---|
+| ![Home](screenshots/Screenshot_20250922_081906.png) | ![Detail](screenshots/Screenshot_20250922_081930.png) |
+
+![Expanded](screenshots/Screenshot_20250922_082139.png)
+
 ## 🛠️ Technologies & Architecture
 
 ### Tech Stack
